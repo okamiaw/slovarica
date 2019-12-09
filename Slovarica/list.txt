@@ -1,0 +1,41 @@
+Car – auto - سيارة
+Ship – brod
+Carpet – cilim
+Boot – cizma
+Flower – cvijet
+Student (primary) – djak
+Tree – drvo
+Mosque – dzamija
+Nail – esker
+Bottle – flasa
+Pidgeon – golub
+Helicopter – helikopter
+Bread – hljeb
+Injection – injekcija
+Needle – igla
+Hedgehog – jez
+Apple – jabuka
+Bucket – kanta
+Spoon – kasika
+Lollypop – lizalo
+Swing – ljuljacka
+Scissors – makaze
+Honey – med
+Snout – njuska
+Knife – noz
+Pencil/pen – olovka
+Towel – peskir
+Fish – riba
+Toilet seat – solja
+Chair – stolica
+Table – stol
+Plate – tanjir
+Wheel – tocak
+Lighter – upaljac
+Fire – vatra
+Fork – viljuska
+Frog – zaba
+Curtain – zavjesa
+Bowl – zdjela
+Star – zvijezda
+Lightning - munja
